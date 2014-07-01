@@ -1,0 +1,113 @@
+
+=============== [2014/07/01 02:14:30, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[02:14:30] INFO:    SSHExec initializing ...
+[02:14:30] INFO:    Session initialized and associated with user credential group
+[02:14:30] INFO:    SSHExec initialized successfully
+[02:14:30] INFO:    SSHExec trying to connect group@134.193.136.127
+[02:14:43] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: Auth fail
+[02:14:43] INFO:    Ready to transfer local file 'E://sensor2.txt' to server directory '/home/cloudera/'
+[02:14:43] INFO:    SSH connection shutdown
+
+=============== [2014/07/01 02:16:21, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[02:16:21] INFO:    SSHExec initializing ...
+[02:16:21] INFO:    Session initialized and associated with user credential group6
+[02:16:21] INFO:    SSHExec initialized successfully
+[02:16:21] INFO:    SSHExec trying to connect group6@134.193.136.127
+[02:16:23] INFO:    SSH connection established
+[02:16:23] INFO:    Ready to transfer local file 'E://sensor2.txt' to server directory '/home/cloudera/'
+[02:16:23] INFO:    Connection channel established succesfully
+[02:16:23] INFO:    Start to upload
+[02:16:23] INFO:    E://sensor2.txtcheck fails
+[02:16:23] INFO:    SSH connection shutdown
+
+=============== [2014/07/01 02:47:38, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[02:47:38] INFO:    SSHExec initializing ...
+[02:47:39] INFO:    Session initialized and associated with user credential group6
+[02:47:39] INFO:    SSHExec initialized successfully
+[02:47:39] INFO:    SSHExec trying to connect group6@134.193.136.127
+[02:47:41] INFO:    SSH connection established
+[02:47:41] INFO:    Ready to transfer local file 'E://sensor2.txt' to server directory '/home/cloudera/'
+[02:47:41] INFO:    Connection channel established succesfully
+[02:47:41] INFO:    Start to upload
+[02:47:41] INFO:    E://sensor2.txtcheck fails
+[02:47:41] INFO:    SSH connection shutdown
+
+=============== [2014/07/01 10:43:32, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[10:43:32] INFO:    SSHExec initializing ...
+[10:43:32] INFO:    Session initialized and associated with user credential group6
+[10:43:32] INFO:    SSHExec initialized successfully
+[10:43:32] INFO:    SSHExec trying to connect group6@134.193.136.127
+[10:43:33] INFO:    SSH connection established
+[10:43:33] INFO:    Ready to transfer local file 'E://sensor2.txt' to server directory '/home/cloudera/'
+[10:43:33] INFO:    Connection channel established succesfully
+[10:43:33] INFO:    Start to upload
+[10:43:34] INFO:    E://sensor2.txtcheck fails
+[10:43:34] INFO:    SSH connection shutdown
+
+=============== [2014/07/01 10:45:08, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[10:45:08] INFO:    SSHExec initializing ...
+[10:45:08] INFO:    Session initialized and associated with user credential group6
+[10:45:08] INFO:    SSHExec initialized successfully
+[10:45:08] INFO:    SSHExec trying to connect group6@134.193.136.127
+[10:45:09] INFO:    SSH connection established
+[10:45:09] INFO:    Ready to transfer local file 'E://sensor2.txt' to server directory '/home.group6/'
+[10:45:09] INFO:    Connection channel established succesfully
+[10:45:09] INFO:    Start to upload
+[10:45:09] INFO:    E://sensor2.txtcheck fails
+[10:45:09] INFO:    SSH connection shutdown
+
+=============== [2014/07/01 10:45:34, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[10:45:34] INFO:    SSHExec initializing ...
+[10:45:34] INFO:    Session initialized and associated with user credential group6
+[10:45:34] INFO:    SSHExec initialized successfully
+[10:45:34] INFO:    SSHExec trying to connect group6@134.193.136.127
+[10:45:35] INFO:    SSH connection established
+[10:45:35] INFO:    Ready to transfer local file 'E://sensor2.txt' to server directory '/home/group6/'
+[10:45:35] INFO:    Connection channel established succesfully
+[10:45:35] INFO:    Start to upload
+[10:45:35] INFO:    SSH connection shutdown
+
+=============== [2014/07/01 10:46:05, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[10:46:05] INFO:    SSHExec initializing ...
+[10:46:05] INFO:    Session initialized and associated with user credential group6
+[10:46:05] INFO:    SSHExec initialized successfully
+[10:46:05] INFO:    SSHExec trying to connect group6@134.193.136.127
+[10:46:06] INFO:    SSH connection established
+[10:46:06] INFO:    Ready to transfer local file 'E://sensor2.txt' to server directory '/home/Cloudera/group6/'
+[10:46:06] INFO:    Connection channel established succesfully
+[10:46:06] INFO:    Start to upload
+[10:46:06] INFO:    E://sensor2.txtcheck fails
+[10:46:06] INFO:    SSH connection shutdown
+
+=============== [2014/07/01 10:46:31, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[10:46:31] INFO:    SSHExec initializing ...
+[10:46:31] INFO:    Session initialized and associated with user credential group6
+[10:46:31] INFO:    SSHExec initialized successfully
+[10:46:31] INFO:    SSHExec trying to connect group6@134.193.136.127
+[10:46:32] INFO:    SSH connection established
+[10:46:32] INFO:    Ready to transfer local file 'E://sensor2.txt' to server directory '/home/cloudera/group6'
+[10:46:32] INFO:    Connection channel established succesfully
+[10:46:32] INFO:    Start to upload
+[10:46:32] INFO:    E://sensor2.txtcheck fails
+[10:46:32] INFO:    SSH connection shutdown
+
+=============== [2014/07/01 10:47:00, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[10:47:00] INFO:    SSHExec initializing ...
+[10:47:00] INFO:    Session initialized and associated with user credential group6
+[10:47:00] INFO:    SSHExec initialized successfully
+[10:47:00] INFO:    SSHExec trying to connect group6@134.193.136.127
+[10:47:01] INFO:    SSH connection established
+[10:47:01] INFO:    Ready to transfer local file 'E://sensor2.txt' to server directory '/home/cloudera/group78'
+[10:47:01] INFO:    Connection channel established succesfully
+[10:47:01] INFO:    Start to upload
+[10:47:01] INFO:    E://sensor2.txtcheck fails
+[10:47:01] INFO:    SSH connection shutdown
