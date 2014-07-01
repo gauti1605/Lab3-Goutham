@@ -33,7 +33,7 @@ public class Operations {
 		    // Connect to server
 		    ssh.connect();
 		    // Upload sshxcute_test.sh to /home/tsadmin on remote system
-		    ssh.uploadSingleDataToServer("E://sensor2.txt", "/home/cloudera/group78");
+		    ssh.uploadSingleDataToServer("C://sensor.txt", "/home/group6/");
 		    
 	
 		} 
